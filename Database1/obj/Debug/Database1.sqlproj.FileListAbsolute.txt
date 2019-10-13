@@ -1,0 +1,10 @@
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana09\University\Database1\bin\Debug\Database1.dacpac
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana09\University\Database1\bin\Debug\Database1.dll
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana09\University\Database1\bin\Debug\Database1.pdb
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana09\University\Database1\obj\Debug\Database1.sqlprojAssemblyReference.cache
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana09\University\Database1\obj\Debug\Model.xml
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana09\University\Database1\obj\Debug\refactor.xml
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana09\University\Database1\obj\Debug\postdeploy.sql
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana09\University\Database1\obj\Debug\predeploy.sql
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana09\University\Database1\obj\Debug\Database1.dll
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana09\University\Database1\obj\Debug\Database1.pdb
